@@ -9,7 +9,7 @@ go build
 ```
 
 # Usage:
-Generate keys and send emails to admins:
+Generate key shares and send emails to admins:
 ```shell script
 ./shamir-key-geneate gen
 ```
