@@ -1,5 +1,5 @@
 # shamir-key-generate
-Generate salt or key using Shamir's Secret Sharing Algorithm
+Generate salt or key, then share it using Shamir's Secret Sharing Algorithm
 
 # Usage:
 Generate keys and send emails to admins:
